@@ -1,15 +1,23 @@
-.jumbotron-md {
+.container-md-fluid{
    
-    background-color: #0a0a0a;
+    background-image: url(https://wallpaperaccess.com/full/2816328.jpg);
+    
+    padding-top: 100px;
+    background-size: cover;
     
 }
-body {
-    padding-top: 2rem;
-    ;
-}
+
 #projects{
     background-color:black;
 }
 #about {
     background-color: wheat;
+}
+.card-body h5 {
+    position: relative;
+    top: 20px;
+}
+.card-body p {
+    position: relative;
+    top: 20px;
 }

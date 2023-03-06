@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px) {
+
+.ombak {
+    position: relative;
+    bottom:180px;
+    height: 200px;
+}
+}
+.container-fluid{
+    background-color: wheat;
+}
