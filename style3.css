@@ -1,11 +1,11 @@
-@media screen and (max-width: 600px) {
-
-.ombak {
-    position: relative;
-    bottom:180px;
-    height: 200px;
-}
-}
-.container-fluid{
+#projects {
     background-color: wheat;
+    
+}
+#about {
+    background-color: black;
+    height: 50vh;
+}
+body {
+    background-color: black;
 }
